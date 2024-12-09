@@ -1,4 +1,4 @@
-# Front-end Web Developer
+# Full-stack Web Developer
 # Hi there 👋 I am Hammad Zahid
 
 --- 🌟 I'm passionate about front-end web development and JavaScript. I love creating interactive <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
